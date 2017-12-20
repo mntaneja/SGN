@@ -1,0 +1,29 @@
+{
+  "name": "nic5355",
+  "version": "1.0.0",
+  "description": "mean stack demo",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mntaneja/SGN.git"
+  },
+  "keywords": [
+    "MEAN",
+    "STACK",
+    "ANGULAY"
+  ],
+  "author": "Manisha Taneja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mntaneja/SGN/issues"
+  },
+  "homepage": "https://github.com/mntaneja/SGN#readme"
+}
